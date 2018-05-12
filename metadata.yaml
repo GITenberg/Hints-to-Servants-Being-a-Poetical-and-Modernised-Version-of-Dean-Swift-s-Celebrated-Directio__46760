@@ -1,4 +1,5 @@
 _repo: Hints-to-Servants-Being-a-Poetical-and-Modernised-Version-of-Dean-Swift-s-Celebrated-Directio__46760
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Meadows, Kenny
@@ -7,6 +8,9 @@ contributor:
     gutenberg_agent_id: '43941'
     url: http://www.gutenberg.org/2009/agents/43941
     wikipedia: http://en.wikipedia.org/wiki/Kenny_Meadows
+covers:
+- cover_type: archival
+  image_path: 46760-h/images/cover.jpg
 creator:
   author:
     agent_name: Jones, John
@@ -14,6 +18,8 @@ creator:
     gutenberg_agent_id: '43970'
     url: http://www.gutenberg.org/2009/agents/43970
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46760#Hints-to-Servants-Being-a-Poetical-and-Modernised-Version-of-Dean-Swift-s-Celebrated-Directio_
 gutenberg_issued: '2014-09-03'
 gutenberg_type: Text
 identifiers:
